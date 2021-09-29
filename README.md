@@ -21,7 +21,7 @@ lrwxrwxrwx 1 root root 33 Mar 19 12:58 graphfont.ttf -> /etc/alternatives/zabbix
 
 4、查看链接的哪个字体
 
-[root@BGPTO-200926-H7T5 fonts]# ll /etc/alternatives/zabbix-web-font
+#ll /etc/alternatives/zabbix-web-font
 
 lrwxrwxrwx 1 root root 38 Mar 19 12:58 /etc/alternatives/zabbix-web-font -> /usr/share/fonts/dejavu/DejaVuSans.ttf
 
