@@ -12,6 +12,7 @@ wget https://raw.githubusercontent.com/chenqing/ng-mini/master/font/msyh.ttf
 /usr/share/zabbix/include/defines.inc.php
 
 ZBX_GRAPH_FONT_NAME graphfont.ttf
+
 3、找到对应字体
 
 ll /usr/share/zabbix/assets/fonts
