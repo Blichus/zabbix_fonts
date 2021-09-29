@@ -1,8 +1,6 @@
 # zabbix_fonts
 修复zabbix中文乱码
 
-原因：默认字体不支持中文乱码
-
 1、下载微软雅黑
 
 wget https://raw.githubusercontent.com/chenqing/ng-mini/master/font/msyh.ttf
@@ -41,6 +39,3 @@ ln -s /usr/share/fonts/dejavu/msyh.ttf zabbix-web-font
  
 
 7、刷新页面，已经好了
-————————————————
-版权声明：本文为CSDN博主「流星泪90」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_22894935/article/details/115544995
