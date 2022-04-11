@@ -1,4 +1,5 @@
 #!/bin/bash
+yum install -y wget
 echo "下载微软雅黑字体"
 wget -O https://raw.githubusercontent.com/chenqing/ng-mini/master/font/msyh.ttf /usr/share/fonts/dejavu/msyh.ttf
 echo "备份原软链接"
